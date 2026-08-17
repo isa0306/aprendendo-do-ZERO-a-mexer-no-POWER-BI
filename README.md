@@ -21,4 +21,16 @@ _○ INDICADORES DE DESEMEPENHO = relatórios investigados mais detalhadamente_
         
         _1-REDES NEURAIS =_ As redes neurais servem para reconhecer e receber dados complexos e resolve-los de forma rápida e prática.
         exemplo simples=> **DETECÇÃO DE SPAM**: um e-mail é cadastrado na rede, e a função de uma rede neural nesse caso é receber palavras ou frases como; "prêmio", "dinheiro" e et,  como entrada e com isso, camadas posteriores faram o trabalho de entender o contexto em que esse e-mail quer dizer, com todo esse processo feito, a próxima etapa é usar a probabilidade do e-mail citado ser spam.        
-        2-ÁRVORES DE DECISÃO= Esse tipo de algoritmo é usado para organizar e ser fácil de visualizar formas diferentes de decisões de uma única origem, chamados como "nós raiz"
+        2-ÁRVORES DE DECISÃO= Esse tipo de algoritmo é usado para organizar e ser fácil de visualizar formas diferentes de decisões de uma única origem, chamados como "nós raiz"                                                        
+        3-REGRESSÃO LINEAR = É quando para solucionar uma variável é necessário o valor de outra, sendo conhecido respectivamente como Variável dependente e variável independente .
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+        **ANALISE PRESCRITIVA=** Depois de todas essa informações coletadas é quando a analise prescritiva entra, tendo a função de "QUAIS AÇÕES DEVEM SER TOMADAS", em torno de todas as informações já prescritas e armazenadas.               
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Essas são as analises fundamentais sobre POWER BI, é a base de com funciona e para que, tendo isso em mente fica muito mais fácil de entender os próximos passos.
+
+
+
+
+
+
